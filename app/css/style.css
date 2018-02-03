@@ -1,0 +1,7 @@
+@import "reset.css";
+div{
+  background-color: #cccccc;
+  color: aliceblue;
+  font-size: 50px;
+  border: solid red 2px;
+}
